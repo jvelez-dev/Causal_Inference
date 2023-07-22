@@ -26,7 +26,7 @@ La data fue recolectada ejecutando 1200 partidas, de las cuales se extrajo la si
 * 'L'    : Indica si el sentido de la audición del GuardBOT está activo
 * 'Y'    : Indica si BOT logró tomar la posición del GuardBOT
 
-Cada sección del notebook, después de ejecutarse, irá construyendo paso a paso el proceso de inferencia causal. Cuando este termine se lanzará el CausalBOT pora la eecución de la tarea por el camino que presenta mejores probabilidades de éxito, opcionalmente, si se quiere visualizar la ejecución de la tarea, deberá tenerse previamente abierto UT2004 y el server (startGamebotsDMServer) en ejecución.
+Cada sección del notebook, después de ejecutarse, irá construyendo paso a paso el proceso de inferencia causal. Cuando este termine se lanzará el CausalBOT para la ejecución de la tarea por el camino que presenta mejores probabilidades de éxito, para esto deberá estar en ejecución el server (startGamebotsDMServer). Opcionalmente, si se quiere visualizar la ejecución de la tarea, deberá tenerse previamente abierto el entorno de pruebas en UT2004.
 
 ## DOI
 [![DOI](https://zenodo.org/badge/669330810.svg)](https://zenodo.org/badge/latestdoi/669330810)
