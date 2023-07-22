@@ -7,7 +7,12 @@ Instalar Pogamut
 Crear un proyecto JAVA maven de Pogamut
 Incluir CausalBOT y GuardBOT en el proyecto
 Descargar CausalBOT_inference.ipynb, Dataset.csv y runcausalbot.jar en el directorio raíz (los he puesto allí por simplicidad)
-Instalar los paquetes  
+Instalar los paquetes:
+itertools
+networkx 
+causalnex
+pgmpy
+
 
 ## Data
 La data fue recolectada ejecutando 1200 partidas, de las cuales se extrajo la siguiente información:
