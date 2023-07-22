@@ -16,9 +16,9 @@ pgmpy
 
 ## Data
 La data fue recolectada ejecutando 1200 partidas, de las cuales se extrajo la siguiente información:
- 'BOT'  : Id del bot de la partida
- 'C'    : El camino que recorrió
- 'N'    : La cantidad de nodos del camino
+* 'BOT'  : Id del bot de la partida
+* 'C'    : El camino que recorrió
+* 'N'    : La cantidad de nodos del camino
  'V'    : La cantidad de nodos que visitó en su recorrido
  'S'    : Indica si el sentido de la vista del GuardBOT está activo
  'L'    : Indica si el sentido de la audición del GuardBOT está activo
