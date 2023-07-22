@@ -1,0 +1,1 @@
+ucc server Test_Environment?game=GameBots2004.BotDeathMatch?timelimit=999999
