@@ -2,6 +2,7 @@
 En este repositorio muestro cómo un agente inteligente utiliza a inferencia causal para derivar de ella su comportamiento. El escenario es un entorno de un videojuego FPS (Unreal Tournament 2004) en el que está diseñado un escenario (TestEnvironment) en el que un agente (GuardBOT) se posiciona en una ubicación específica y un agente (CausalBOT) cuya tarea es tomar la posición del GuardBOT sin ser detectado.
 
 ## Configuración del entorno
+El procso de configuración está perfectamente documentado en el [manual de Pogamut](https://artemis.ms.mff.cuni.cz/pogamut_files/documentation-project/Pogamut-User_Manual.pdf). Es recomendable seguirlo paso a paso.
 1. Instalación de software
 * Instalar UT2004
 * Instalar Pogamut
